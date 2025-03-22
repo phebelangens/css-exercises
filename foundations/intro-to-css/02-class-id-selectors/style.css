@@ -1,0 +1,18 @@
+.example_class, .cool {
+    background-color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cool {
+    font-size: 26px;
+}
+
+#foo {
+    color: blue;
+    font-size: 32px;
+}
+
+#bar {
+    background-color: lightgreen;
+    font-weight: bold;
+}
