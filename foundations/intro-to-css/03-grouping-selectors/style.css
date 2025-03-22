@@ -1,0 +1,14 @@
+.button_left, .button_right {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+}
+
+.button_left {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.button_right {
+    background-color: yellow;
+}
